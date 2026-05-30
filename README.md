@@ -6,7 +6,7 @@ Automated pipeline that matches UN-DESA datasets to official SDMX SDG indicators
 
 ## The Problem
 
-UN-DESA maintains a catalog of 69 SDG datasets but lacks structured links to official SDMX indicator identifiers. Building those links manually would require 40+ hours of work and is prone to inconsistency. This project automates the process using algorithmic similarity scoring.
+UN-DESA maintains a catalog of 498 SDG datasets but lacks structured links to official SDMX indicator identifiers. Building those links manually would require 40+ hours of work and is prone to inconsistency. This project automates the process using algorithmic similarity scoring.
 
 ---
 
@@ -59,6 +59,7 @@ sdg-dataset-matcher/
 │   ├── summary_statistics.csv
 │   ├── sdmx_registry_data.csv
 │   └── original_catalog.csv
+├── .ipynb_checkpoints/        # gitignored
 ├── .gitignore
 └── README.md
 ```
