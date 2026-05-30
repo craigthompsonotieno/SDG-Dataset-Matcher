@@ -15,7 +15,7 @@ UN-DESA maintains a catalog of 69 SDG datasets but lacks structured links to off
 | Metric | Value |
 |---|---|
 | Datasets matched | 128 (75% of processed SDGs) |
-| High-confidence matches (score > 0.7) | 63% — no manual review needed |
+| High-confidence matches (score > 0.7) | 63% — lower manual review burden |
 | Data rows retrieved | 217,000+ across all matched datasets |
 | Manual work saved | ~40 hours (90% reduction) |
 
