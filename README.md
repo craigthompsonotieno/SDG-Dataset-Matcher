@@ -132,3 +132,11 @@ Open `UNDESA_datasets.ipynb` in Jupyter and run all cells top to bottom. The pip
 - Automate monthly re-runs to capture new datasets
 - Extend pipeline to other UN data catalogs (UNDATA, UNStats)
 - Incorporate TF-IDF or embedding-based matching to improve low-confidence coverage
+
+## License
+
+The original source code and documentation in this repository are licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+The MIT License applies only to the original code and documentation created for this project. It does not grant rights over third-party datasets, indicator definitions, metadata, images or other external materials used by the project.
+
+Users are responsible for complying with the applicable terms and attribution requirements of the original data providers.
